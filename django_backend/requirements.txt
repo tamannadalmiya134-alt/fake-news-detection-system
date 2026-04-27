@@ -1,0 +1,9 @@
+django
+transformers
+torch
+tensorflow
+numpy
+pandas
+scikit-learn
+pymongo
+nltk
